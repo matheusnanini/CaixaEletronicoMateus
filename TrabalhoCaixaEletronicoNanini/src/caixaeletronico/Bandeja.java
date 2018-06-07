@@ -7,10 +7,7 @@ public class Bandeja {
     public Bandeja(double valorFace, int qntNotas) {
         this.valorFace = valorFace;
         this.qntNotas = qntNotas;
-    }
-    
-
-    
+    }  
     public double getValorFace() {
         return valorFace;
     }
